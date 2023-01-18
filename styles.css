@@ -1,0 +1,32 @@
+
+
+h1{
+    color:slateblue; 
+    text-align:center;
+}
+h2{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color:brown;
+    text-align: center;
+}
+h3{
+    color: rgb(100, 53, 0);
+}
+h1 samp{
+
+color:rgb(214, 252, 0);
+font-size: 2rem;
+}
+html{
+    font-size: 1rem;
+}
+body{
+    font: size 16rem; ;
+}
+h1.an{
+    color:rgb(21, 221, 64); 
+    text-align:center;
