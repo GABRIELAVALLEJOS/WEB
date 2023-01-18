@@ -25,21 +25,16 @@ p{
 h3{
     color: darkgreen;
 }
-h1 samp{
-
-color:var(--oscuro);
-font-size: 2rem;
+samp{
+font-size:large;
 }
 html{
-    font-size: 1rem;
+    font-size:66.5%;
 }
 body{
-    font: size 16rem; ;
+    font: size 16px; ;
 }
-h1.an{
-    color:rgb(21, 221, 64); 
-    text-align:center;
-}
+
 .nav-bg{
     background-color: var(--primarios);
 }
@@ -52,7 +47,7 @@ h1.an{
     background-color: var(--primo);
 }
 .navegacion-principal a {
-    background-color: var(--primarios);
+    background-color: var();
 }
 .navegacion-principal {
     padding: 1rem;
